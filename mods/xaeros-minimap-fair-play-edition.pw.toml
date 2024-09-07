@@ -1,0 +1,13 @@
+name = "Xaero's Minimap (Fair-play Edition)"
+filename = "Xaeros_Minimap_FP22.9.3_Forge_1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de56317f3f4094e94a8d3528b86e9881e379a6c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846354
+project-id = 263466

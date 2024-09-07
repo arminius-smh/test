@@ -1,0 +1,13 @@
+name = "project-391187"
+filename = "enchantwithmob-1.16.5-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fa2ed494aadf6926b8baa9e3e78ccff72deb19d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3539541
+project-id = 391187

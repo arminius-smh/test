@@ -1,0 +1,13 @@
+name = "Medieval Music[Forge/Fabric]"
+filename = "zmedievalmusic-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ad6661a1cee886395f46ca901bf9adfe30cdf17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3749490
+project-id = 521932

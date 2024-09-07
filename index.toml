@@ -1,0 +1,2404 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MagicalForest-common.toml"
+hash = "3d40ec385e598d56e655e2279cb44f0f348448744a4210de0a9e7f431b1c9fbf"
+
+[[files]]
+file = "config/OpenTerrainGenerator/DimensionConfigs/Example 1.yaml"
+hash = "66ae6462b434354469404840ad281a224cf8a9fabb03f8d484081640fa0cbd22"
+
+[[files]]
+file = "config/OpenTerrainGenerator/DimensionConfigs/Example 2.yaml"
+hash = "382f45cd578c272b6dd3ad5fdeca94d872266e74d072e63ade2946242b2c3a5b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/DimensionConfigs/Example 3.yaml"
+hash = "5e913f5d150b48f6e3e8591f092bd78529b0027fa8d63e612e1acf6ca5d5a84a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/DimensionConfigs/Example 4.yaml"
+hash = "5dfdecfd3f7349b1d5910c04733f466595e1a7626bddec386bb99a95a365f06a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/OTG.ini"
+hash = "01c23f6c557b6cb9feaf9cebf28d1482b261e8d9861efea6e584e65b933ac53b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/Hell.bc"
+hash = "10b1cdbae6253e6a53b362d74bd9a24470b8d234ebe9164172e28a4464370a97"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/Sky.bc"
+hash = "fd532fa170a6df004ea60ba1c222e70e1a319fdb71e1528c749df904d2dc2637"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/The Void.bc"
+hash = "2cb5a080edacd73b06a329af0045ef98c3f711f606ad0cd1a0273e37f38a8aef"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/beach/Beach.bc"
+hash = "ac9a326af9246ca7c942c6928a5e2ecef2d04a66cfe2daca643b2891b706fb0e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/beach/Snowy Beach.bc"
+hash = "0d582aac4371947a1f7dd035beac64326f3327b9c68d9689dc965eeb0121101f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/beach/Stone Shore.bc"
+hash = "2690019d6f486cf9defc9f339da841b86824fe7a0208991aa79c0afe0bf02990"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/desert/Desert Hills.bc"
+hash = "443ac024d628a3a58c1c3eb9d29f11ecc0dc007b64a426903000dada9b82f3e2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/desert/Desert Lakes.bc"
+hash = "0864930aa4687cfe5b65f9dbbadace291e6d53c2f7cc13cd1a2062b088cd357b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/desert/Desert.bc"
+hash = "21f2a72927da6f47ee5ed44815de7d4b84077833ba8c51f446ded5f374dc8ec3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/extreme_hills/Gravelly Mountains+.bc"
+hash = "ecf4f6c3beddf3edc10eca94acf425162cb368ba388681311155694f166269ed"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/extreme_hills/Gravelly Mountains.bc"
+hash = "190e2599b5793ce86d9fc749cdc7b76ac3cffc6b291d1d6fbf00c73688fd98ce"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/extreme_hills/Mountain Edge.bc"
+hash = "97d762fa5a4d391249766c03317e3c64142d543c6bf4caf2f55a5603b8e79981"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/extreme_hills/Mountains.bc"
+hash = "b1efef0fe050a42b61e579e9a4a23ef4d4157e6d7bd85789f8944fdfd624fadf"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/extreme_hills/Wooded Mountains.bc"
+hash = "a9a170252f8fabab6e09b6e0886b0b6ca04eab6d80d1fc56a401580c18e2eb05"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Birch Forest Hills.bc"
+hash = "84c9f1f528f04fe9777b501bb6d3ebe8232d2afb8c5a44074411a0ea91912d22"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Birch Forest.bc"
+hash = "ad4f3a93f993d7995fd8fde25ab655253260ee477288a2ac7ec7523054580530"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Dark Forest Hills.bc"
+hash = "ae94c0742991c3f5d2cfe93e47224ae5530f4cf7effe0a3e9951f0718e5ed652"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Dark Forest.bc"
+hash = "52c667db396cb5159893c1841290993335f180f8c15ca0e272098882db384c91"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Flower Forest.bc"
+hash = "c3ee2424d74583af436e4129e060396e38ea089098a8fcbe9cc630676c918882"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Forest.bc"
+hash = "b21168bb2084849252e64c655341501699e235bff26b5656630e59a4aa159c3e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Tall Birch Forest.bc"
+hash = "a25ebb2e53873036f987ba262f7214f5c808b85f181e1d04c12ce5e167568b30"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Tall Birch Hills.bc"
+hash = "82dd2731555b992a2bd964b8313e57634c407a23d5f503087614fc7aa8d0841d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/forest/Wooded Hills.bc"
+hash = "b43bc8ce050f0b85ce498cab552bc5e8e692e285165e9f93bab733d9e4a1d509"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/icy/Ice Spikes.bc"
+hash = "8bf5d33f352a7946ead6a8cd8fa46fd1896cfeca10d522c513332b99ab48f4d3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/icy/Snowy Mountains.bc"
+hash = "d4782cadfda2c2ffefdca142ee611ff57af6f786542a5df05f0d1170e7d1c470"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/icy/Snowy Tundra.bc"
+hash = "baa0c1641271669ba5c4f0bd27362ae29076e380e69b7faf9a3f30998d33144a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Bamboo Jungle Hills.bc"
+hash = "60bc5380a9190c75da15c44f623931d82ebf912f5f82d03cc678a70d0a84785b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Bamboo Jungle.bc"
+hash = "8d608dfe1897e64e12fd340cbece4e47cfbc97374f03c3156dea337257cd7fef"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Jungle Edge.bc"
+hash = "4b449b011f302eecfae2e28eb3ee00b47b554812583b5e65f5b0c40a76d6d6aa"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Jungle Hills.bc"
+hash = "b338c7959b92101e68c372cd1041ec667d363079297356101c58688c49fc320a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Jungle.bc"
+hash = "0ca2cca5fc5cadb11c003e8920806dd42d3e62696a5ffa782049efd8fb3bb3fb"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Modified Jungle Edge.bc"
+hash = "60b71a985e74636dabb0825efeba68a7be5e6525a6e27c85992762a0d5244f73"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/jungle/Modified Jungle.bc"
+hash = "665be9959e352de7c2c4019c7f1874c821e8e44e97a5485b850c0ac8f9944327"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Badlands Plateau.bc"
+hash = "a855c66258b3dedb269307598e42a5b0c18948323c1ecffd155405d42dcb920a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Badlands.bc"
+hash = "199b9b3f835d418ee455c430cef6e25a93639b3464173bd560bc55dcf123b262"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Eroded Badlands.bc"
+hash = "19d78a25b38ccdbda3a86edf0dcd594541b7a1879af141b68dcf138b657ebac0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Modified Badlands Plateau.bc"
+hash = "60957fc0c0df370a1ad11c48bca067ad02d31ea2e8ed64ed2e4dd15ac409b610"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Modified Wooded Badlands Plateau.bc"
+hash = "3449ddb52c3bcedb646685974d4dbb4ab2ce0ab016bdddaeb13f11692713f455"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mesa/Wooded Badlands Plateau.bc"
+hash = "edd28191d23ac5fc480d9f09f72ff1466e29c306f745935a5091280ff8a8569e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mushroom/Mushroom Fields Shore.bc"
+hash = "bed23e4b26bf460d5eb007fced3f59eebfb47c37e0986d147bc6cf5e13f983c6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/mushroom/Mushroom Fields.bc"
+hash = "c30002e7bb29458be66da58e6c4061f4fd997ba8f0fc80aa1a9edbd3ca05e396"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Cold Ocean.bc"
+hash = "f61296c98760eb75999ace5b21d4ee749b7c1a675c9ba9af047d3eb0dc9d161c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Deep Cold Ocean.bc"
+hash = "6f4cd4c781b02c392e066f47c295b95c69433fafe2fd2c85b8086a9bb63a2133"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Deep Frozen Ocean.bc"
+hash = "d4b36a8f33990cba0cb8760a2bb54778f43b3900752352c4cb2a5597adc36fe7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Deep Lukewarm Ocean.bc"
+hash = "6e34495627dd8a74fa68ff9b919569f48b3d5b7e49a4e19dcc003dbb53e98819"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Deep Ocean.bc"
+hash = "7325d23a1d6d70f68b7e6925022f4f72b66a8f4a00f3767ffe4f805d198a831c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Deep Warm Ocean.bc"
+hash = "8934af92eb7aebace82c82547fc55e382261a6e3324c48b97ff8ec036417a674"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Frozen Ocean.bc"
+hash = "84e6ec636ebe31382ef27a2000ba3b8c108968c32f77f2dbed0a0c3ab92b04a6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Lukewarm Ocean.bc"
+hash = "d7a55501aa41b35996344276a17369a59fb3132c94fc390f7c5167980b6f7383"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Ocean.bc"
+hash = "0da4861da8adffd2c55fbf809369ad00712e773ec4486bb24f3dd89eeab0abda"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/ocean/Warm Ocean.bc"
+hash = "24621f2a439a732644eddb06618b7519e6dc82da8f4db81adfa40f9d454d01d0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/plains/Plains.bc"
+hash = "75486f13be388d22b25e086cb2aaaa248000e51156c4fd56aef5cad2d4527f32"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/plains/Sunflower Plains.bc"
+hash = "27e997c5037d9b173ede4221f314581f70a9a3cf7ec883853c365d821240a4df"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/river/Frozen River.bc"
+hash = "05dab7fa99bb4c85a46124c30ebafc195a0619df50e6a5d6c0583896e586a7aa"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/river/River.bc"
+hash = "39ccc60c401b3a172b3097e7bbed3dcbd0cb459e2cb6c7ab531b0b5d09a97f45"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/savanna/Savanna Plateau.bc"
+hash = "ab785961d03065ea2005cdb542271d3ca058a6a29c052291378327d51da25d8d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/savanna/Savanna.bc"
+hash = "89735de4c39738c37fe354c210f1af9598be9ec074a8bb5c3e3ad525b8c1dd86"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/savanna/Shattered Savanna Plateau.bc"
+hash = "0879f73cd6365d5f3b9223e76a7db0c59c34cc5a3c0cbe5b26cb49fad7764398"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/savanna/Shattered Savanna.bc"
+hash = "e7f16f78f96603babd40e7000e6e49292cf7bd2b26ccf3d691f38d461ddb9698"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/swamp/Swamp Hills.bc"
+hash = "447f1305a0bf81105a25ae5148963097c56e88978dc7b7b130cdf815daa60bcb"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/swamp/Swamp.bc"
+hash = "f107165aaeece2ff22d3ff7484936a144491cb2cb1fbcb62c0719bcf48891956"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Giant Spruce Taiga Hills.bc"
+hash = "755e65deac85c5471d95b427326b24267e671d20cd75abf75a0cff8d49255213"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Giant Spruce Taiga.bc"
+hash = "bac45804437652b0ab1c9f90b6f3d4001ac56e8cbc8c7b1a0a73fbefb165617b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Giant Tree Taiga Hills.bc"
+hash = "3e7f0c4247f88e60d60db38ea37d61170ebda1624d17ed270b5eb343813b0cc2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Giant Tree Taiga.bc"
+hash = "bd62b3581937ec5eb769c1501ed54273997b522bec66b6e33306521b62cd3e2d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Snowy Taiga Hills.bc"
+hash = "56d67afcfe7bfade045aadccb04bca78ca32b7a0269c9a430149d1ea0e7b71fe"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Snowy Taiga Mountains.bc"
+hash = "5c3c24bd444a5485560ae832598c3ec4033be91ba53cf617ed699e931d4ef3c3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Snowy Taiga.bc"
+hash = "e0ad40bed2e8dc861cacce4e30c73929017136273ff3bbdb7277238b8156803a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Taiga Hills.bc"
+hash = "7681067b384a1efdf12b05bcd2712c231b8ff47289c33f61ada3f6d8e5797ed4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Taiga Mountains.bc"
+hash = "84a5274a134a986dcacc2dc38e54e6534dd1b80a93ea427d35f708422d21989d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/taiga/Taiga.bc"
+hash = "0e168d5b2b9edc492fe2ea1f8d797ee1c2d7f5d8c44a0ae9ed33139e675525d7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagForestSnowy.bc"
+hash = "2ddf1bfd1cfe662f154e14fe6520a2fdf8ad4d27b8f7fb70a4f9021b31456742"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagHillsSnowy.bc"
+hash = "386bf3303aa8654a7ecc05d350f0809dba146f982077183c93dfb20d95cb26ef"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagLushSnowy.bc"
+hash = "2ddf1bfd1cfe662f154e14fe6520a2fdf8ad4d27b8f7fb70a4f9021b31456742"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagMountainSnowy.bc"
+hash = "5749ee362b60bf32e69147642038e161069a6984abf83a9318c5c36e8fe584b1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagPlainsSnowy.bc"
+hash = "246f30df186458bbcae589f196853ae87d47ae932bc0ab583c22eb3677495b1d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagSandySnowy.bc"
+hash = "246f30df186458bbcae589f196853ae87d47ae932bc0ab583c22eb3677495b1d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/Snowy/tagWaterSnowy.bc"
+hash = "f6e223707c79c47e1bd1fd2ea6c48b890d101f1e13ec744fd8e75a8ae0978b91"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagForest.bc"
+hash = "90c2b7d94a306cd935bbfe2684c93b08008860e7fe83d198a4e1d228a72aeba5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagHills.bc"
+hash = "1f250c6f331e5bd7a8537248ebf67dfb314a0bcdfc784f2b2b6d1f5b136c492a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagJungle.bc"
+hash = "1f250c6f331e5bd7a8537248ebf67dfb314a0bcdfc784f2b2b6d1f5b136c492a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagLush.bc"
+hash = "90c2b7d94a306cd935bbfe2684c93b08008860e7fe83d198a4e1d228a72aeba5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagMountain.bc"
+hash = "2158eb660923e550b0dce36f0e84dc59912d2402b5a5640ed918a18bf4a3157f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagPlains.bc"
+hash = "af9b7cbe422224f7b52dadaee6233ec1d0fd19e8c5d73ccebfe98b3c299b6345"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagSandy.bc"
+hash = "af9b7cbe422224f7b52dadaee6233ec1d0fd19e8c5d73ccebfe98b3c299b6345"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldBiomes/templates/tagWater.bc"
+hash = "f6e223707c79c47e1bd1fd2ea6c48b890d101f1e13ec744fd8e75a8ae0978b91"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/Default/WorldConfig.ini"
+hash = "f22940fef0876498a8372750b47003d0855cc91e336dfd3c7e83bb9fea148943"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/Hell.bc"
+hash = "04ddef7147898aab986c18befc7af99c0f156c670376bcb73702c23ff166753e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/Sky.bc"
+hash = "d7595c41d0f04f7b9f8206282508833d21c96b91c550c2b016cc3695e82d47dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/The Void.bc"
+hash = "afa5f06cf0459c994539b0d370b512ee14547744dcc01c2e0cdac3ac2c98116a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/beach/Beach.bc"
+hash = "441d7c5318ad7e9e4b26e9370ea425d677a123ee79ac3ffb3e10103113e586a7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/beach/Snowy Beach.bc"
+hash = "66d7626b3f7aa355ceae5584d7199f7e208cc14c7e62aa400092b984e30d2fcb"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/beach/Stone Shore.bc"
+hash = "bfd70daf44794d8dc769909a4326d93788c595540be205227b1e8fcf11441387"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Coastline.bc"
+hash = "d180bf8c5520670a13035b7e600ee9afb262b6d7924bb548afc8150c715d4576"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Lakes Isles.bc"
+hash = "0b4f285bbf3175f00f4975a59764347d5be0b500c8057cec35b39d7e51b0c8b3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Lakes.bc"
+hash = "38906d7b1b37c31b19825c5b82cd022fa4bdcfd205ccbb20833a36f14999067e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Red Sand Beach.bc"
+hash = "03ddc0ce4d852f4e66a4e7b98bad2eee672beec5e7cdb0a0390d872804821a07"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Sandy Beach.bc"
+hash = "a6aece520a9f69a01774f69d0fc75026429e63a670c84a41213b9d00ac179985"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/Shore.bc"
+hash = "cd17b3fcfebacc16c7b1c516869ca0f9f8dc4b3b40998b578f70f03bc88e1171"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/custom/river/BadlandsRiver.bc"
+hash = "b2d9485ce757f152caecffc6ca82ec6f2b2231b3deaa96b6f551be011fb79200"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/desert/Desert Hills.bc"
+hash = "adc587b588b162943b777e0de07c7e0281fb6218720f120e41a905130118694a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/desert/Desert Lakes.bc"
+hash = "02a0267b1bf8ce8683f6df0523f5d0a0a208f66b587070b06601069a11fb446d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/desert/Desert.bc"
+hash = "df9a4e3c6c28c109c5a6bb2566a09ddb3d9085f04f2c2b6eb93097e1fd35b670"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/extreme_hills/Gravelly Mountains+.bc"
+hash = "7b479b800f311d28196164aa2d3608b022ce1d55196ae9c18b8fb8d7d7476619"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/extreme_hills/Gravelly Mountains.bc"
+hash = "3663082a990fa12ba96a62bad7ca22df779ad5b4423e70a3d6404074110af5a6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/extreme_hills/Mountain Edge.bc"
+hash = "74bc72c6374c432f52a87e83d3069fc6189167fa50c95bd34a206c5c40b4e7a2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/extreme_hills/Mountains.bc"
+hash = "3f9c787be57350c21d4f8e5f6ec405fdb982e90386235ce827ba84b44cfbae41"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/extreme_hills/Wooded Mountains.bc"
+hash = "2967822554d162983f2d5e7fc476743d7b9d10a2bbeaa05a61b391f11156e932"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Birch Forest Hills.bc"
+hash = "9cd93c0bdc984d1b8b19ed7b98bd744ebf7212dd208f2400e21cf1f844e45593"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Birch Forest.bc"
+hash = "c4cd5b2da749c7643d9ecf66416e68f58ea8de00edda16d1f018184b43c633ec"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Dark Forest Hills.bc"
+hash = "7705b2a99bf7ad120960e5b8167e96e00bdf12ea9367dee7fd56eb1c241900da"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Dark Forest.bc"
+hash = "3d786b7101439fcc010e09aaf44088187b30690127adb1bc74ec66d76a7eb1e5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Flower Forest.bc"
+hash = "7ccdbee2e8784a60c7441fb993b47ac3b5e64d00cdf3c16c16bf94606f4d742f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Forest.bc"
+hash = "7e7f066085c97d5c217adc42767ea23305f164901f38c4c76b966ad61118947e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Tall Birch Forest.bc"
+hash = "346503d549fe156df10ca7d48145cc17bc7602bb7ba5beca731cc30837d264fa"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Tall Birch Hills.bc"
+hash = "af7c276cb5bb546989afd6485bcbb21ff4b01a2662b3e37321b429e85481ee21"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/forest/Wooded Hills.bc"
+hash = "384d73df6625fdb38b079d066433e22e1fcbd6d1eab419b8cd822e9847a53382"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/icy/Ice Spikes.bc"
+hash = "e3f058a15bb51ea966d88239b28d5372026357a7df9b7c62cf305f89ac0834ec"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/icy/Snowy Mountains.bc"
+hash = "b3f3cebdb3d4fcec48e9aee08309876c52169e1f3631482be5874629c7e3af22"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/icy/Snowy Tundra.bc"
+hash = "733e903e143b74ee73547904da584c9d6853722fdf64ec35a890d95cc1a156a6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Bamboo Jungle Hills.bc"
+hash = "5234ab8038990fddeb4fabbb77a7a41a33c3194b3ac79fb0dd03bc8cc6af9043"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Bamboo Jungle.bc"
+hash = "bd7b57172234bf4c77b399de9a23ad16c484cbc71ed884a5842644de87a5b270"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Jungle Edge.bc"
+hash = "cd4dc6d367e5f5beeeb3fbcaf41120c73800413c7354b17bc24692fadb4d6324"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Jungle Hills.bc"
+hash = "f07278e9444d3485267e8af99c29ca187e92589cecfe813903f17c104f9a262a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Jungle.bc"
+hash = "6be1b54c948116449888c0c4570910ff2d4e4eeddbf31801ac8478b293082575"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Modified Jungle Edge.bc"
+hash = "223cead07edefce6d87c68091ee4d5178b33536eac0baecb9f825bf9185c968e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/jungle/Modified Jungle.bc"
+hash = "4977273f92579c9dd89af2b3d2296d46b7c2cd805de00faebec5ffe043ce117e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Badlands Plateau.bc"
+hash = "90991ba8bed933d45d1fd735b3a1b4a00b8a71263038c150a10db1852a2d6cf0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Badlands.bc"
+hash = "2d0d25de60f16facefd945b895591cb61fc68073457b82b2a845deb34c388cf6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Eroded Badlands.bc"
+hash = "90afcd8df06af40599da81e9e3dd9b7e4752102e75ae3c5bba74bed923b21798"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Modified Badlands Plateau.bc"
+hash = "a1846953be99e2602de317197ba2349f71aaeecc93864fa8cd7b1f46adad22e3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Modified Wooded Badlands Plateau.bc"
+hash = "beec16e02d07f5e803487468ea6e445f7fa9606653c08e45099ec322a5a17b02"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mesa/Wooded Badlands Plateau.bc"
+hash = "abafb2590ff36e666e476191ceaebba2957fae468ee6de983514d6a051fac537"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mushroom/Mushroom Fields Shore.bc"
+hash = "0e18b054362a5c2a213bc51c7d0636e2c7175150f6ebc228e82ae8fbd5b320b0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/mushroom/Mushroom Fields.bc"
+hash = "db3e02435297ec6558ea0a9646c49f91fbf3ee7d405953996336cdcd6bec8cb8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Cold Ocean.bc"
+hash = "f4d6f1eab41da25078dbc7b7ff833b2c8c54d554b4fdff616625241c14801965"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Deep Cold Ocean.bc"
+hash = "63058fd708793fefb37f51518473679e79df4711cc227a6feb3fad4b83b0f30f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Deep Frozen Ocean.bc"
+hash = "f5c7d67ad7f241488a7845ba80e76b0836181116d0a0b77fb9bc7899ee55ae86"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Deep Lukewarm Ocean.bc"
+hash = "885c152f5c457c7a84c66397eab3060188ee330d9eec1b7febdd999e1877b20e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Deep Ocean.bc"
+hash = "58d5e7227938176c5d2b464b19e34f330a8cd0f5ad43bfb603161bcd337d5d7b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Deep Warm Ocean.bc"
+hash = "915b64a716261e4f82f4b78e1f384a5493e0807b751fd074cda2c464dbddbe7b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Frozen Ocean.bc"
+hash = "b3eec324dc1b9aa660a9d87a89d31a2836275c6bb872a605a7d34a0a2e00fb4c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Lukewarm Ocean.bc"
+hash = "85f90bb2a779aafb7a08b2f1c68c9091b06033e5839cc4055eaa80edea7fb954"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Ocean.bc"
+hash = "cd6374c4ffd27c34635d91358dd7e56030dd26831e4c85b85e26c64301fd8b62"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/ocean/Warm Ocean.bc"
+hash = "895bced0852fe378aa0f28b745765142124465e91b076bedad81e7df0dd662dc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/plains/Plains.bc"
+hash = "795da9464326f07deb14540631726c7d0ff0f26adefd8d43e7ba6be747350c21"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/plains/Sunflower Plains.bc"
+hash = "0bd869e9fa2ce0e94f8e75be4ac0736703af0cba34e705c93fd1f7a0e1ec8101"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/river/Frozen River.bc"
+hash = "8f45bfd38198ab2d1cdc349f2529837da7374a365eeb9f6498ff9ba9b4d4f4e0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/river/River.bc"
+hash = "bcc606c8a9f7f643573c89680b0467a0e5bf8c4341a92b2ba9c22048435491a4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/savanna/Savanna Plateau.bc"
+hash = "37710a49c7f3d83878e90f6efd41fbdc412d77b21a0fbe245d62fee5bce6e1cc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/savanna/Savanna.bc"
+hash = "d6f05ff62d3a78c4679fc93c5d4c33c59b8b17db6b42b6c270758d6aeb949d63"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/savanna/Shattered Savanna Plateau.bc"
+hash = "110ec63ea0691b66708e614d17296b6b5af551c99adf2bc35b28e35042f10cdd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/savanna/Shattered Savanna.bc"
+hash = "a7f3d8c1e5112ffe40c341e7e84af69eae0877a02ac130b7b74fdc64031c58dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/swamp/Swamp Hills.bc"
+hash = "1cfbab0d3f5a05f7d694345eff96f0416f66ba2845abc93df06c4ee79198faa2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/swamp/Swamp.bc"
+hash = "d919112b5542a8d5becf12c14ef9b4402855d8c44f964f1fe900c0d8041da56a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Giant Spruce Taiga Hills.bc"
+hash = "114cfad82a01df330e06d086e822b43c6b2b6c69fe30b36e236fcba6806fb777"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Giant Spruce Taiga.bc"
+hash = "24fc0ced6c529293d4a4d96bccf22819533b263e3d2e7ebb689f1b8e43c3fc70"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Giant Tree Taiga Hills.bc"
+hash = "d951fd3c3da4a7adfbccb40cc958b313c60d421372795884476944fd70bed2c0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Giant Tree Taiga.bc"
+hash = "af37b50151b445d8b306e6172c384d54130c6d473722c7acd88b43a6cb664452"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Snowy Taiga Hills.bc"
+hash = "78898904cfe3ef68e01c3ed4d25e042ed5619048e729e4ddb6bccc9b2ffe4ed7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Snowy Taiga Mountains.bc"
+hash = "4c4584b98a1006c5f3a6779629b3835040deb422f488b2a65b293c4abcd0ffab"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Snowy Taiga.bc"
+hash = "96241efc5dd8a72717dfed20894a98c4f9b6eca4df27d9994982f138657dd498"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Taiga Hills.bc"
+hash = "ce801cc9c647aaafdf67b2428e4188edf54c0b374fa0cf0d71da015f7ac42524"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Taiga Mountains.bc"
+hash = "d179c4726a6e4dcc003e6cb56506b3866730917ef9b9e372bd96d07a412472a9"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/taiga/Taiga.bc"
+hash = "d0792d53aec7a7acd7160b680cf7cddc51d273b8b8d88efcd14ddd55b38fbb41"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagForestSnowy.bc"
+hash = "5a997ea61108af12ea2565beb335c74d4536342e0aa5e8b42a8de91cc940a7dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagHillsSnowy.bc"
+hash = "ed7eaa6fa995400afd92a41856bf1c58afa83ff89dd39514e43dbf87c3c96f22"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagLushSnowy.bc"
+hash = "5a997ea61108af12ea2565beb335c74d4536342e0aa5e8b42a8de91cc940a7dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagMountainSnowy.bc"
+hash = "ce7173196e4049b6fbe9bebe6351d54df5cd2ec92dbf7774eafa4413e85475e2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagPlainsSnowy.bc"
+hash = "5a997ea61108af12ea2565beb335c74d4536342e0aa5e8b42a8de91cc940a7dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagSandySnowy.bc"
+hash = "5a997ea61108af12ea2565beb335c74d4536342e0aa5e8b42a8de91cc940a7dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/Snowy/tagWaterSnowy.bc"
+hash = "0f7eeb7b03db7816e9e409b6e6ce417f20728eb1febbf490cb5aa4f4ab0c04f6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagForest.bc"
+hash = "65c55ad5fa0badbd1aa9af95e3711147b46d6fd5b6c8cc6ce621bfcf736be48e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagHills.bc"
+hash = "e77ec593b0f4d96f71c23a883b1f82ad10d5e65825895c260641bc71b52a837d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagLush.bc"
+hash = "65c55ad5fa0badbd1aa9af95e3711147b46d6fd5b6c8cc6ce621bfcf736be48e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagMountain.bc"
+hash = "65d9ceae4a44b1d6728fb9fec2df477ce55a2ab5941c8b70e124a903057f139f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagPlains.bc"
+hash = "65c55ad5fa0badbd1aa9af95e3711147b46d6fd5b6c8cc6ce621bfcf736be48e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagSandy.bc"
+hash = "65c55ad5fa0badbd1aa9af95e3711147b46d6fd5b6c8cc6ce621bfcf736be48e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldBiomes/templates/tagWater.bc"
+hash = "e272ef904aaab17fbca4867b403c230d9ffa6752fb9a0e01be5f13aa00b1d5ed"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldConfig.ini"
+hash = "f7e063950d676ce01be36cbcb92c33d22d81f17016e69b6d3e2ed2a5356a812f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowTerracottaPillar1.BO3"
+hash = "1c2ab1d10517356d653f41646a1998d52dbb6167a0759a2687b0db3f09a2e6e2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowTerracottaPillar2.BO3"
+hash = "25c4d61d2ff3f2bf306ebca0ec3497b6337652b245d10157f536cc83931e7fd9"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowTerracottaPillar3.BO3"
+hash = "afd343c682fa7befa3c9cb65c724832982c2983304c67c8bbb578d57d3823879"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowerTerracottaPillar1.BO3"
+hash = "fe54c975c3bb89478f6beb5417cabaca206c0f98f6832ca790eeb3e28df56598"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowerTerracottaPillar2.BO3"
+hash = "717afa5bb55ac1f4cdce2ed07f47799e2b9ed71b4a6765d216342b91f5207b6c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/LowerTerracottaPillar3.BO3"
+hash = "f8f9a46855e24aa5eb7a3a842c0f59df002e6ff1692981dd078607d1ea008147"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/TerracottaPillar1.BO3"
+hash = "d456ffa2a6b8c8fed814d586fec981733facd57a55ca0f3c84bd9dd38e0db92e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/TerracottaPillar2.BO3"
+hash = "70886c4301b62ca1ba06d739ea587a36c9a1716d4fa61311cb68b3273b7f1a3b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/CliffObjects/TerracottaPillar3.BO3"
+hash = "7d07f639bf3846c8ccebabc1fce64bfcc0b34e1548a4bfefeda4473e43c4cebc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen1.bo3"
+hash = "76f4f30edbccbc55ca832b5b87e8c8521bde58e2e01fe84ba487cb49ff8c1fe3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen2.bo3"
+hash = "b85ffcedaa956c96b5158653e46828ab6c8877265f8816244ee06f9e1c4c6624"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen3.bo3"
+hash = "0d566841316105a960981cacc2214899e410920c23fc177e10170c6fd5905fec"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen4.bo3"
+hash = "2a8460e42212120753463d00c99a98ada7a4bb8fe45d587b83c5151f76db3a0b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen5.bo3"
+hash = "12cd783c9f0e1f13c67c7249b2ae0ce99bdf66ee311dca3bf186e86713d74c8c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen6.bo3"
+hash = "c51009a45e24f187009803ff3507fe3619999234f95948f1422a97f4205e9038"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen7.bo3"
+hash = "2531eae752b548610beca4bd4207a05e7cfc904b325309ff6488eb12cd401c41"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/BirchFallen8.bo3"
+hash = "e4c3b9ae3630fa8ada01f6ad71aacd69a57ffdea221e4f66d524d966f25936a8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/OakFallenTree1.bo3"
+hash = "82b56ae187b70bbed2661f04da17ab23a5a6ed7c0fc7c2792917c09e15c4b003"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/OakFallenTree2.bo3"
+hash = "c48dad9ff0a177acb36d24c5e3857277bcb2cd896e010e4ad4ca86ae8fce7d5e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/OakFallenTree3.bo3"
+hash = "2a360334fd15c0f6a4decc892b84ae5b12a759c938d536bce0607a26aed084e6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Fallen Trees/OakFallenTree4.bo3"
+hash = "60e17e03049a7f1e6031e883b39ed535be4c5ca35a28b1879ba2be07ff4fe0ea"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall1.BO3"
+hash = "f70351548843697394d275991c6e062cac61fde943259891a18e9fd3867c322f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall2.BO3"
+hash = "87dbddfc7e55b0d50f7f695e4fc8cfd2ec072e55deee5cbe59691ba5a49b3598"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall3.BO3"
+hash = "5ee82ba52586017af6f571ee5f25e30b225e46e65c2bc62fc855bdb3a84c0444"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall4.BO3"
+hash = "7a3d0694765b4d615ea0d7cd167360e37cd9a2301758a32629b1b5f0ea929fb4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall5.BO3"
+hash = "6e5210dbd8e71421bee945993e87c2ae0d1d56d57a190f250261cbe89efec11b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Glacier/GlacierSmall6.BO3"
+hash = "cbdf77e2c92ce836a8eb10ab641526cd747b6dc4d5a109864a702d7c28319b74"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm1.bo3"
+hash = "683b4de4d1a3f90ed8a5ad737bea24b25ebaaf1d950efed8bec0463d50791531"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm10.bo3"
+hash = "7c7f000fb9aefea0274276ad10968b794ce23e119b9231b6ba6e76173acf77b5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm11.bo3"
+hash = "5d67a2c85f56e86b73566c32452df0ea2f34569df21e0ea9a275b965d29bed02"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm2.bo3"
+hash = "8fc15223021fca8b744f3bd2fcdc1ea7fb0e116e152e6ad6832d8a86c39eec1c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm3.bo3"
+hash = "62aaabb3e48aa513720a63878486723ce6f90b2133601b7756aba8535b444721"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm4.bo3"
+hash = "08eec000084a7af6a2be31627c63dae9acc0b8ffb6b9bebb6c319848d0c6dbb5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm5.bo3"
+hash = "a2b428c2ce7ec9b9a8d53e49c6e438e956b8ed068399e70c98617c163c773388"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm6.bo3"
+hash = "2664ccec616cdbbe97e258241028645a12775483bccfc39981c85f45ca43caad"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm7.bo3"
+hash = "5eda7e37201e0010f4e798aa87fac275f91e14bf19e318a53a5d50255fcf6be6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm8.bo3"
+hash = "aacc39408e8731cb78d4615adbbf3c3b6277bc52d26d551c6e2d5be30f93094a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Jungle/JunglePalm9.bo3"
+hash = "eb4063cfb14bdfd3bac4ed8f800f111517fc825298a68aa603d72a5f5e2d519d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandOasis1.bo3"
+hash = "053be6a7df25bf7f712a3cbb0f5ff9bd0d140d71831b47b8d83d75e67a969a91"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandOasis2.bo3"
+hash = "fcaf8bc495335810f5ac8c037a4c766775a7223dd461b2ccc04d272fdcf7a279"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandOasis3.bo3"
+hash = "4862b4956781924046f641ae2c47c1c2fdfd6de603e9e150b70838fa0b113d16"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandOasis4.bo3"
+hash = "1aadf918a790cac188985250e08f23308639eb162b9b24e50d9d3c1ac2d1b2e9"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandOasis5.bo3"
+hash = "92173edb283892c3bd65c4308ebd212af5007de4c7d3d815f2ecf91394bac4fc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake1.bo3"
+hash = "b12d9e402e7fcaef14b81c2d7c1af11920426720c77baf19cfcc00ad1ab0e341"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake10.bo3"
+hash = "33424772b2a496d554d76b6e587b893383c0a4b157bb5b80c6e59acc4f42f99e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake11.bo3"
+hash = "c182bded44a59255f6a9ec343ca80609f9a8c474eb4d4bcc2b7716e2aac20120"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake12.bo3"
+hash = "f8bc2cb817cc8f47db92888cc7f4e2b06850d4fa4e35f307c5ce239db6af26e3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake2.bo3"
+hash = "a01850f06e60ac35cc2ac4b1936c5e079d803af820a06050b0e07d2899a72720"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake3.bo3"
+hash = "81aaac61c2b0fa2146f6d2e2c493ffb5a7b7f325a3cc720e0b169a18a846bf9c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake4.bo3"
+hash = "f9705a8f5e8e6be2668f3b94e794c9a0013c78dfaa4f0eed3569bbbdb7135d67"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake5.bo3"
+hash = "8b66dbc811b41925b1cce522b6c20529ef4251edae54c905b9f4c5f7f344ac46"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake6.bo3"
+hash = "3e27bd22b24635afd747af7ce18b5c4b9303be23082dfd28de9f5ae39be2a195"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake7.bo3"
+hash = "5518cb698a1c42657137896cf7b860541fccd3cb9f28c29c13289eddf0299cf6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake8.bo3"
+hash = "3bb0e5d85f5c830883e9c21c116495a2e3fdb349ed9c266022fd71cb446793b0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SandLakes/SandSmallLake9.bo3"
+hash = "9e63bfd003e5fbb09a59d87906323874463c40fdc84c21523e902f5181f38d47"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake1.bo3"
+hash = "f4d2105f0b17374428ce908e976b4a3d10f300331dae693807f9439e9ae11971"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake10.bo3"
+hash = "53d9ad56c2185bbcc36b164acabadfc0698a4f204a5c7b1492f0f32cf55a7c05"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake11.bo3"
+hash = "cbc518d21294b53a10ff20b768e199b2ffd8162deb4702f72ebbea0b984b89ea"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake12.bo3"
+hash = "06041557ddd815f78094b3482fe7adcc1be7a02054cc84ca96d63db51b198359"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake2.bo3"
+hash = "e7b9ba2eb77dde1220d79af0e2e3723d3762ed14d64cbace75197dfd87fd953a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake3.bo3"
+hash = "c2e5d65b74ae76e9403bf3792cac3df598f90d9068592e51539fbb52b65428b4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake4.bo3"
+hash = "8bc03cec4611592fa500334228316bf27a5ef5cac4f987e2075cdbf2df6dde8f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake5.bo3"
+hash = "67dc74955a9f2b7906da687bc4e2c4bf8c3d79128b578d9290cbf0ca7f510bd6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake6.bo3"
+hash = "8b32dac4fda2d54f6423b860319f58b3ae1b4a4dd3e347686910a5485d847827"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake7.bo3"
+hash = "04d7fd1dc296a0d83a0991d0b234325146b15a742cdfcf6726993ad83b65002b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake8.bo3"
+hash = "8a2bf8be75a0ba7bb0ca75760101ae60cfbe9038d7293de739201f13a8d5657d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/SmallLake9.bo3"
+hash = "4a9192494fbd329771dfb131acb6b08951ef1109e62a51019ca56a6e147d2acb"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Lakes/WaterBlock.BO3"
+hash = "7f50d6a7ab000663c3263208f02f8ea31e5df27fa716d70ae64a54f4487df3f1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall1.BO3"
+hash = "a1d20c116acaad367fe2dc18707a33b444e83c80eb9ff25942a7997d626b0c98"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall2.BO3"
+hash = "8a451efa4c57d5a93d3368f91b3615cf0f8005a2b5d56cb17090ab73c5dac6f1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall3.BO3"
+hash = "ef226bbe6c1c292f4fea55c65db7be1fb9da0c590be49d2ab26b26f741cccce8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall4.BO3"
+hash = "764c75f1b77543b692965c4eeeecc66e8f73398f2c0aafb9f030006491a34f3d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall5.BO3"
+hash = "c6c916d5488ad6d7eac62445246c1393af27b64b363ded7394755c38b3676eea"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/ClayRockSmall6.BO3"
+hash = "1b95892489372c930dadeb257c38148a990b491d055d092e505228afd5df0a72"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/LakeMesaRock1.bo3"
+hash = "b406802b94849e96089676afcd9b25dfce56919b10ddf753e6f83a0b61919935"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/LakeMesaRock2.bo3"
+hash = "87fc75af84b35311a16b3a1e323bac4d908cc0dccd0ff17acec01eca551ec437"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/LakeMesaRock3.bo3"
+hash = "496a41596760af49cc3ba4128311e3a246f2953d694fd1f018147a9bddbdb8f2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/LakeMesaRock4.bo3"
+hash = "7a11beb8bf52ee28da9926408ca839a1a5faf0c3e7f48a4e6eadb12b8fe5e4cc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/LakeMesaRock5.bo3"
+hash = "f41e1f79d56903039aa7dbe10e27f1133f89c830a175a205b1f8aa9eb48ef8dd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/MesaRock1.bo3"
+hash = "7dbd588ec1d438022795477a805650d6d1ee1200ad61fae3c80c94ba7647d212"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/MesaRock2.bo3"
+hash = "0315217c5b8f21e7bf5bd8ae1d5d815707eb51f742eaa84f0021ccb14d4cc2d8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/MesaRock3.bo3"
+hash = "13a5d00e90bb9cc76b809aa599c4b6389eab6673c3b93554c33ec54f81c9da67"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/MesaRock4.bo3"
+hash = "364d0fa1874c5fdbac92604851f46bff7f557527802b42becc8e960382b1c63c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/MesaRock5.bo3"
+hash = "6f2a409495e902d28be6afa3feda10643e8c9b970a68897a7bf6e860742bc07b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock1.bo3"
+hash = "d8ef2fd97c442e2ca1e66c562f9dd7de1ace76885715817266dc7a867101f579"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock2.bo3"
+hash = "3a97c95ad5e2d8372a5b167645b87d93904809c3c09a6b953c687b69389ca7b3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock3.bo3"
+hash = "5cd5cf3b0de7057250e45725b370582c91344430f796a3318d500b5a993e6356"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock4.bo3"
+hash = "b626b87de3ad49b36a4eb10351ce3c192065ed14cca418244a9836a3fbe436a7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock5.bo3"
+hash = "10ffee32ec4050fadadd7ef3843b8966fdd53f118684013a3084c2edd162fa93"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock6.bo3"
+hash = "f6ef7adc34f7b659f263b355cc4ff496e4fb3a3b42ca7064b5ff082717f88a46"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Mesa/orangerock7.bo3"
+hash = "1c26d620fa857547a516ba61108733f790bb9c19a3fad8cf3cd5132736827984"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/Glacier1.BO3"
+hash = "e1fa72d431179651aacc1679a10dbf4c34b804966702364f53b608114d46cbb4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/Glacier2.BO3"
+hash = "20d3232c845c2c9fabf8b0e43d4dbae1daba1d4ee98644ac25802b3ad06cffc0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/Glacier3.BO3"
+hash = "d2ba53710ebb2e490fdd6967bc4946a6e9b79b721a9e9544b6ee8b329403d4cc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/RockSpireSmall1.BO3"
+hash = "dddd81cf419dcda2d448921b1e567bacbd05df0675c8df907f1568e65e0c8e46"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/RockSpireSmall2.BO3"
+hash = "2285fbc9931a4c844ff0d4e9b900ebcb5eecd13dc9f36f8f303f4ce66dd0b624"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/RockSpireSmall3.BO3"
+hash = "7129d5446162aeab9c9de09c5217c940ca1d7ac2a4d4284e57515d6260e4969e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/RockSpireSmall4.BO3"
+hash = "6917d2380eae69c51aec99fbc3aa4d8be7ac229d42f96b2311bf0e6def7ae63c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/StoneShore1.BO3"
+hash = "d10eceb8eb5cc04363561a07f1304066685bce052e1c345b765d4c55f089448f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/StoneShore2.BO3"
+hash = "faa9ae6075ab52302b69c324fa99a46ec59e57b0e961449ec7cd3605c4e777a1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/StoneShore3.BO3"
+hash = "02d0721e10270fde91399a5bb23ebd5d3b075acca03145d7db91f07a71f52423"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/VillagePlatform1.bo3"
+hash = "75d9cc8d668cdebe04af3e84d98e79e8660d2e50498d467bc1be629943db66d8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/VillagePlatform2.bo3"
+hash = "7937c529c3fe5f013fbc950e7775acfc2a08b2855365e66ab017b420350344df"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/VillagePlatform3.bo3"
+hash = "0004eb54d194e9d0d03a801671f96e5aa7238ff63b7091a645b9858ce0e42b68"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/forestrock1.bo3"
+hash = "a7eea636db3569561f6206e673a9378919fe5773ba4bf034dda9c2be40f3b3fc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/forestrock2.bo3"
+hash = "073a0d28fc1b5e85f04b15f893d0d8e5de6cb2337eae4b0c9a4a8587893e6139"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/forestrock3.bo3"
+hash = "f4da8c32ef966f0620687dae2e40d9870611e7f3ae47dae0f6d072b776cdb2d1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/forestrock4.bo3"
+hash = "7de4834bd4eff8ec42383befc39c6c8b8343a6db391fa163c8b684d95b280abe"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder1.bo3"
+hash = "6ebccbf39f6536b9d7ca4b0a2eb486bdfa458c6398cb369af4d6c7ea4277acb8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder2.bo3"
+hash = "00f3e82f0606a55080aa8222c6c890aa5475d590d5ead79e35aac0c19165492e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder3.bo3"
+hash = "a633fe7821d3771ac4306bd4c1702fed24cb12cbf7b378662e9b6d11d67c869f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder4.bo3"
+hash = "03175bdb18802fc2873f4b2f38f221807682c713177590e1bf0b1480d719ef5e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder5.bo3"
+hash = "79c0d02cfb9de6837eab5049f4469677a80aae634c186db331ab907962d9bf01"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder6.bo3"
+hash = "e30768281df249c92ece012c37e65dbb22e840684b600bb4281cc9052c0e6ea3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder7.bo3"
+hash = "014bfc16b6d255abcd77dff9f551e75981059b75a95b7d633519e227af1bf9b8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder8.bo3"
+hash = "275705d28c3f11ff3f83302fe587c5ed32bf9145c6976cee33c0bed2597689e6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/giantboulder9.bo3"
+hash = "e85127f2da55bea864034358a869c2f14d67d85df7b449400919179365e6b5e5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock1.bo3"
+hash = "d0abc1dbcaf5b615fe36621a412cfe01223c3dc68765dddd088404a8d0ce5958"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock2.bo3"
+hash = "66c56d96aaef5d97ce725b135adcd5abf5b6fbbc276077e58658875cf9bc6f2f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock3.bo3"
+hash = "67f030da1936b749d19428e8b4c089ed7b97afd250032c99031cffa85cf23d3b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock4.bo3"
+hash = "38a0a4f011ae1aef74bc3c32732bd9d5a1cd4d8fe80b77820670051405a3dbbd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock5.bo3"
+hash = "4596eb82511ec397f26f65ea327f59b7be939084bb3fafb15485a7e0ef6700ae"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock6.bo3"
+hash = "c7c07457d97618477c2479317f862dd96fcfa26de34699e0afe46db4f167fa2a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/RuggedWaterRock7.bo3"
+hash = "d4d06685a3341d342f4991ff768d00a5d16578eabdc0064d83d37664e011d0de"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock1.bo3"
+hash = "1c003fa8cf313df3b417600754acd97070a8a91fde9af24f7a09783e9806e6d1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock2.bo3"
+hash = "a99f074bb2e2dbf6b50efb0ed8251cd8061aea755d71f41f1677055456b3f6f0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock3.bo3"
+hash = "44680be933a4fcd4b214cd07daf0300e261ba60bfa3ba1e4a0db034e1e9a5c13"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock4.bo3"
+hash = "bb34de263d119dd02be69df38699ae2d921f98266d2ada4ecd127b16ace7c168"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock5.bo3"
+hash = "252e16477b26fce0dce2295c06a95f4437e5b017defc4bb740daae4ee5c63e5f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock6.bo3"
+hash = "1c6aec0dbf95afd08e5fdf9380f0d273672e5e8ce6f98fa8465f075535e0a61d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Rocks/waterrocks/TinyRuggedWaterRock7.bo3"
+hash = "c0835372d1797ced7ac4847feab86122f72c4bc6163e94a9a8b9d054bc579f8c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSandDune1.BO3"
+hash = "d3d3a0acf5b6b6868f55a90ef921e9d24108b6ca4a4cd32fe333eef29243efd7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSandDune2.BO3"
+hash = "d3d3a0acf5b6b6868f55a90ef921e9d24108b6ca4a4cd32fe333eef29243efd7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSandDune3.BO3"
+hash = "37b71b312bf69f89f08a52427c87f73d93f8da31b261782538517d456f49bb8e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSnowDune1.BO3"
+hash = "8198d5fbea352211c5de17abd6541e9abe3f400ba47db326e76c2a8940a9b8ba"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSnowDune2.BO3"
+hash = "8198d5fbea352211c5de17abd6541e9abe3f400ba47db326e76c2a8940a9b8ba"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/SmallSnowDune3.BO3"
+hash = "e74ca48c2e6c35f2e002558322745afa54608de28f420379ab297d1e969afb1d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/Snowflake1.BO3"
+hash = "3528156962a73c1db0aa485bf66043ab5a2b7308908ee79f61961441fb6ed769"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/Snowflake2.BO3"
+hash = "a8d4a209d14d6e0a5f21c537221b0481e49ae0528f35ce07a29ba072ad74eed3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/Snowflake3.BO3"
+hash = "fb5f954b59b984604dcaad126f8259b025c737805d9d4f34d7b2d8c94c828a26"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/Snowflake4.BO3"
+hash = "c780d43cfe7e4f7cb99a4ae17d604b71173be7fbb6ed3227738a1f3919f515f7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/Snowflake5.BO3"
+hash = "9eca8734795a2080a4c82af3b73f2ead6c65760fe46aa1cc25f5615059aea667"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Snowflakes/SnowflakeInvader.BO3"
+hash = "f0c48bdf991333620402bbcf450f3b12e729d2db68cb7fca1088986af54ed3a2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/StonePillar1.BO3"
+hash = "6c8cb2767c7ea90e5df572705335d105f789ec17b1e3c24463eec090f6452ff5"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/StonePillar2.BO3"
+hash = "26fd13b02a2fcadcf7a34321da0a52bae187b9df2052a4f5079dbf058175f23a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/StonePillar3.BO3"
+hash = "dbd5c50e2bd03a068bfec4592c8f0c4b15f58dc245d287ee73420fc3e3250ed6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest1.bo3"
+hash = "6e0d1a824cf4a45f1fd950cb07db4f50dd0719c9c94d7d02dedf8ec9f19586ae"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest2.bo3"
+hash = "073e524d2166580d6283192e5edf18fcdc2841341404ba6c16e836b5b89f0697"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest3.bo3"
+hash = "19f264a883bfd758715cfe821864b57ea462ef496b1d1ec3b50cbd65703f37d9"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest4.bo3"
+hash = "c51faa9750e9970a7c1fc450c5683a8aa1ee2fbc1e852d0cffeea87cef8aa2e8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest5.bo3"
+hash = "4251d00e291f00b791a668ef1c22d3b8f48a1799eca571b91a136af37012235a"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest6.bo3"
+hash = "1572887dae9721b034834d136c74aefa524526dae9dc18dd6f0e97fee431defd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchForest7.bo3"
+hash = "42a2b77f9cd04844052c849444dc385287dde925bdd3d0b12a43ec0b6bd25a00"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchPoplar1.bo3"
+hash = "4623061a1819fc9d4a025f938442125e187b12cfad68f5566d60f4bf11372aa4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchPoplar2.bo3"
+hash = "c074133ea5253d6ff4f3d737b36eb7b05660a465d4d1d55aac78cb971e26712e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchPoplar3.bo3"
+hash = "7ce705aedd125f25fd9b9e012a8a1e1e35dd0f1fee8a7becc9aa3876cfe22dcf"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchPoplar4.bo3"
+hash = "a86b3ed07109873b00794254f70962ecfd2f955cb2efa78c8c3980886bb7c710"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Birch/BirchPoplar5.bo3"
+hash = "cd59f50c96534b16362714d9a87b65e50edc290e6b8b8e96f3039c7843fc99de"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestLarge1.bo3"
+hash = "39fc57dbd7b7b2c7e53ffb8e2c528ee53072ce58bd9d8d67c64b665c6749a68d"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestLarge2.bo3"
+hash = "862eb0c18352f1a032afe404fe300108ab539f35396af59e55f954cff3a47284"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestLarge3.bo3"
+hash = "61b0e4bd86f0b4314f5414885edc22636e255da751bb4f34799b95df9205342f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestLarge4.bo3"
+hash = "17b702314dc4df7f7f275945fe4d5bc175a31d785ffd35a85d98a4015b1927ae"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestLarge5.bo3"
+hash = "f0982a2af6e30d3ba74ba55ac582391438d7db78795d8121727260bdbcb44a72"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestMedium1.bo3"
+hash = "b2562a273ac4d025efbfb8ee3e52c034be8384c5c9f2e5ba29b14ee3d38d2bf8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestMedium2.bo3"
+hash = "7f3e09af0ddefb9d871bef54fab82b802940efe04e81265f306baac2e209e5da"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall1.bo3"
+hash = "c04116818dcb8a4765c28ceffeb02f2f638dab0d4508b85a4738048b92c7067e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall10.bo3"
+hash = "1afabe9fda9861dd214a7fac162bf2af8156e01e861ed9a859863e0d0a9bdb06"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall11.bo3"
+hash = "09ed755a07b2037ef58042227c750e4e95ade64aea6578c954412e4fb6b3b2a1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall12.bo3"
+hash = "29fff4ec997de15779aed993817060f5b08926e47b36c0e52fdfe80a327d2305"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall13.bo3"
+hash = "8a6584d21a596ca88944addeb97e96a6c3ad3ff4cf76851a5baa7e03e8020fe6"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall2.bo3"
+hash = "30ea2f31b4480ef20a87ba1afce891d0fa7327ddedbe3b3c2bfa3339512793aa"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall3.bo3"
+hash = "894d9dbb0c3aeb4aac4d64b25c8d755396cf1e42aae37328ea97a9c21de300e4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall4.bo3"
+hash = "21aa1b81d807865b5f8f2148ff0654308a2f7319d3fc8031b72d877451e72df3"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall5.bo3"
+hash = "7481a6a85174f998eb517eab526891a431dbc7697bfe00a9a63f2e28d25c84d2"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall6.bo3"
+hash = "ecbd3d3de8939dfdac93e370f045557b9bb1c47642e78a572e56a3f2d6beea27"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall8.bo3"
+hash = "42365b9823d560932c2080d6dfe1fd978cb1757662b3e338e578cf8f36e82b8b"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakForestSmall9.bo3"
+hash = "82735753e1baa70a70a756b22aa94c881ed615006639a27574917eb316df2107"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTree1.bo3"
+hash = "14522db7a47925a646f50123ec73d45e7288a725f74276e21331a0fbcb8e7820"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTree2.bo3"
+hash = "d4bbf2a4ac37768150f3eb4f529b0fbdb12eb5d5bad8092c345abfe0d6431bc0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTree3.bo3"
+hash = "7866a733274013b1ebab469aef82b991003d23a2b347457029a29862f7ecccab"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTree4.bo3"
+hash = "98402ea428e4b3ba645658c18ee68b987ba96417314d269d98bfc2509e84b714"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTreeSmall1.bo3"
+hash = "08e06b6103c58717df922ee8329f5f989c9dfd5af41ef9764d495e79cd6954ba"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakIceTreeSmall2.bo3"
+hash = "273b4dc5d27fbbf1c106560ca2d2bbcc943193c975f8ed3f50d1207ae5b2f6aa"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree1.bo3"
+hash = "20f9afbe628887cbb2e25d3c9a45bd4005248b828f56466e6365e2baf1fcf0bd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree2.bo3"
+hash = "c2880d00b2e61ccd21adc07504d1a436ca117c5ee7bdf2cc2531dfde0a4b6332"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree3.bo3"
+hash = "f4a98ba2a42265aabd0db809a4a98242af96cefee692cb8c41103521e22a1b73"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree4.bo3"
+hash = "d87ed6e665eb663b234748b5163526b70fe2c9130cb5f829faee045981b74908"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree5.bo3"
+hash = "55332a7bc3b040652f3404b629ff2abf4b34823975180e8d29a6fc8b5a6b4858"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree6.bo3"
+hash = "eb45b0c8f0fc76bcdf4260c0487bceba7a24cf2a951230484214830c6511bcec"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree7.bo3"
+hash = "c201e35f34774ee676e5cb411a9a61fd46934539ca00c43831e803c576dd99d1"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/OakMangroveTree8.bo3"
+hash = "eae6adb83996c6d95eb1aeacf620ecf5b429afda1e3daeb181d2507309e977d4"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/baobab1.bo3"
+hash = "8a21a55e268fbf672017a87bfd49670d5212a5e0404fa512584b8caa292d5561"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/baobab2.bo3"
+hash = "ee3e72fe71ef2382dd8364f12be257793e7e00e6add935da24cbed8b30639877"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Oak/baobab3.bo3"
+hash = "1e751d0994c4b590861477810ecb898fdf6d0c7af7c56e8b5179db8cbb4f9fbc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceM1.bo3"
+hash = "4fddce66f70aecb95b087c8ffeac3e6fb31994d61d9748c2e8d4d7f57fc5e7bc"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceM2.bo3"
+hash = "3324bee6efeba155d6cdb6d9579bcc2d700e6005daf2e49a293b8c504129b4cb"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceS1.bo3"
+hash = "928c7b858be5d7ecbd4e389441664e497bd2ca18ed18b81bd544f314cfbbb5f8"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceS2.bo3"
+hash = "9f9c27686ee635bbaa38016bedad2e3abf6ae56589182a7ec9523511e449d4fd"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceS3.bo3"
+hash = "cb6ab22c95a664921338e3374ec313533cee3d57a8ffcccd9f3dc886c92e2f07"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/BlackSpruceS4.bo3"
+hash = "3c75de8d44bd9451d7646758c91995a068848cf56ebc363570255a4e709ff018"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine1.bo3"
+hash = "7e916016916432c724612dddcffe602d93061bf12ff91568792cb49b93c53279"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine2.bo3"
+hash = "342850d794eda3964cc19b0447e9ff6b205c7a988f80433e1517b83205e18ce7"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine3.bo3"
+hash = "7878b24ef9c532f0b21af46f91cdaa8405adbc682e4eb21689eef93967a03861"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine4.bo3"
+hash = "a1bff507998b0834db13d72168455730d90bdc6e540605f83e5cfb7eb5de8908"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine5.bo3"
+hash = "ff426e80749a387d295c86b6f686300ccc22a4a61637a6065d0ffaeceaf85aa0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine6.bo3"
+hash = "21f5be25ffcdb62dfa848ae98c2ab770b13c9b608e2fc82368dcf5e93a818f9c"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine7.bo3"
+hash = "8501a456bf537713c7834473197d01fbb77b98c28d5f8f53b006b1d03b915e0e"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SkinnyPine8.bo3"
+hash = "1c7f7c2e6fbc9b2f96b14107c6bcd5b63f9152514b33ab183bf9a724c2248297"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SprucePinyon1.bo3"
+hash = "b614a13b05a1071e187ac88ce7e7501db3108e3918eb76a6cf5ef2523869267f"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SprucePinyon2.bo3"
+hash = "5730176100f5aa907638e48149b495e9d8c6c3f21943e9dde8e84b46329cc9b0"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SprucePinyon3.bo3"
+hash = "b057c6663bb1f3c365bd2342ebd4f4e933704dbfa8d392de576e8682c8fed463"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SprucePinyon4.bo3"
+hash = "1d7c36e381b51b161a2a06f4c1c3f51b2da45eb66038e34aac0ec263ba45a753"
+
+[[files]]
+file = "config/OpenTerrainGenerator/Presets/VanillaVistas/WorldObjects/Trees/Spruce/SprucePinyon5.bo3"
+hash = "17eed649c9ff23cca7a1b27b081fd28287bbebaea4fc3f32a4340acc0e07900f"
+
+[[files]]
+file = "config/YungsExtras-forge-1_16.toml"
+hash = "0aa7cd01a4fcdb6a3be52f1212d6e5a6fd25e283de37a51841475b132fa20399"
+
+[[files]]
+file = "config/YungsExtras/README.txt"
+hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
+
+[[files]]
+file = "config/YungsExtras/forge-1_16/README.txt"
+hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
+
+[[files]]
+file = "config/YungsExtras/forge-1_16/wishing_wells.json"
+hash = "0fc1c310651e1198ea94d15ab805efb0fb294050d342fa47aabc4eab0ea8abed"
+
+[[files]]
+file = "config/abnormals_core-client.toml"
+hash = "5719a7afb03e4677fc9095c169636aa3f51af6d54c5ea3c8c153f00546566d15"
+
+[[files]]
+file = "config/abnormals_core-common.toml"
+hash = "ff182a1390fa32051e60696f323606b177829f80e9f4a1b133ce9fdb5ef26b48"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "7c4610961ae8f366f39d6cf7d584524e747077efe601e090fddc37c7ba61f56c"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "config/atmospheric-client.toml"
+hash = "9f394f30e17b71de1cbaa929863e03b7e87d4a9c4be2c58f07b2cb4227ebff65"
+
+[[files]]
+file = "config/atmospheric-common.toml"
+hash = "4efda262ddf60a03293cf9ea0595b79b627d4d7a8a2a69e1b2a51c7179b15492"
+
+[[files]]
+file = "config/autumnity-common.toml"
+hash = "319b20ae5b132ab209c7504aff095213250a38a102cb843efed493c9cd1b452a"
+
+[[files]]
+file = "config/ba-battletowers-config.toml"
+hash = "d530bd62dca1ab8104022a0f564b81b5fd2903f95c233f8eb7b2669e54da2536"
+
+[[files]]
+file = "config/betteranimalsplus-client.toml"
+hash = "9309ab69873ecef6958f4a8422bbc9256b1ff7eaab369acfc4634a9256842c1c"
+
+[[files]]
+file = "config/bettercaves-1_16.toml"
+hash = "3769e9030cfb3e659530ea777ffcec0accf85eb7714845ac0f5609abe305fc6e"
+
+[[files]]
+file = "config/bettercaves/README.txt"
+hash = "4f16327598ee6f761118b4396cff6a964799aaeea1d8af66b54c45946e03c53a"
+
+[[files]]
+file = "config/betterdefaultbiomes/betterdefaultbiomes.toml"
+hash = "aeb8f0864cc01d6a9d7ce3c642015d5e91c64a7c58d92e09f0838f420ce579cf"
+
+[[files]]
+file = "config/betterdefaultbiomes/food/duck_food.json"
+hash = "ca8cd46b73fb6e0b350bf3c90305ee9abc2ef5be373091a154644529ee6bd875"
+
+[[files]]
+file = "config/betterdefaultbiomes/food/frog_food.json"
+hash = "af714c7bab32a4b489a51413ad99527533682d897495865c3052559366ffefc5"
+
+[[files]]
+file = "config/betterdefaultbiomes/food/zebra_food.json"
+hash = "525553e24e6f3a2c99dfb859a154d36e7057a878b4acb60de0ecbccc0d3f4364"
+
+[[files]]
+file = "config/betterdefaultbiomes/generation.toml"
+hash = "7a5bd4c43adf7be1716398894e46a5a6bdc56965213fc1b439f9e2e76496c4d3"
+
+[[files]]
+file = "config/betterdungeons-forge-1_16.toml"
+hash = "0a017b69d748c1bb608e98807af3dac586615e173d8efc20495833ebfd563e3e"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_16.toml"
+hash = "6817437f4ddf1dffdfef144050f14909508352e39cabec3a8dd575e1416816eb"
+
+[[files]]
+file = "config/bettermineshafts/1_16/README.txt"
+hash = "b2222a54a5fcaeba7597d0d88f49d184e33cb4532b60e393b9a6d832a02e62c9"
+
+[[files]]
+file = "config/bettermineshafts/1_16/biomeTags.txt"
+hash = "ed611d1166106612d2285b8c37c68af529d3e6e7ab8823b129b71df09e40a678"
+
+[[files]]
+file = "config/bettermineshafts/1_16/variants.json"
+hash = "2aa4fb8978ec6f15666e3863bc50a917ae691a24b642666cb5666ab6c29f72f9"
+
+[[files]]
+file = "config/bettermineshafts/README.txt"
+hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
+
+[[files]]
+file = "config/betterstrongholds-forge-1_16.toml"
+hash = "f871c3316794c853a3768725cdca3222a0e27729bd3b84f7c3b20569876cdc07"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/armorstands.json"
+hash = "3ed014e69a2146f1aab2ecd58bffdc821ff25e7b5692271436ee3ee7c83ec196"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/itemframes.json"
+hash = "6aba8eb20e3a0c96af1d05f24abfa687d525861e6c4e479a0b7540960a92b1b4"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/ores.json"
+hash = "87d623339990fab828ecded50405abe46a886e0fb08fb724d27dba3605551ab9"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/rareblocks.json"
+hash = "459d7e65151d59545db7cc4726f30fbfd6f22ab058fa6e16ceee6167da16e8c7"
+
+[[files]]
+file = "config/castle_dungeons/config.cfg"
+hash = "418bc5e951952a5616bdd92bd6f3689274773bfa80c9382f44dd0c6408780140"
+
+[[files]]
+file = "config/castle_dungeons/themes/default.cfg"
+hash = "ba9bcc8d26aac8b5b8fbc067cd1df9abc795b93e474054b9a1305b3de640afef"
+
+[[files]]
+file = "config/castle_dungeons/themes/desert.cfg"
+hash = "d425d784674546a9827b8ff6e5f3044019c5ae37bed6bacebea10a7e303d7d4c"
+
+[[files]]
+file = "config/chococraft-common.toml"
+hash = "5423b55a133a68c0a8877d6efddc546993a82c7a617b3aa588ce493d73505b87"
+
+[[files]]
+file = "config/collective-common.toml"
+hash = "499a60e3d9a0a400faae4327027f339df2a24e5e5e072b845abbb939b630a75d"
+
+[[files]]
+file = "config/consoleexperience/consoleexperience-client.toml"
+hash = "cdbb6280903e45ffd4ec2029f66436aea6c4874365a7b70204b00a5ffc79278d"
+
+[[files]]
+file = "config/consoleexperience/helditemtooltips.json"
+hash = "531c51fe5188d43e5c16dba8861867911275954068424396fa795520667f6929"
+
+[[files]]
+file = "config/consoleexperience/tips.json"
+hash = "f9c3e2f6fd74e18122cc3649fe8c79688ab3eb78e2a157240e32215311751c2f"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "b38ea260cde0a1b5d176abc4c5c7ac0f11ff30c972d0ff9cb66c129c4fed67fd"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+hash = "34ba5ef111755f419697484b8797203f08d08e286520a47c742a26aa7a9555c9"
+
+[[files]]
+file = "config/dungeons_enhanced-common.toml"
+hash = "0e57126c3cb27b0c05abb7ae54a4b4914e2780a643f539e9ddabb798f2275f64"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "586e2aa59c93df5d94d5f8a71c14f9faa56399090d5edd73ea2db7ee58eb6570"
+
+[[files]]
+file = "config/easymagic-common.toml"
+hash = "f608e9e16d167ba05f6b3a9d3e509a1acf9dd96771b5e4913e6d4dff3d6c1965"
+
+[[files]]
+file = "config/enchantingrunes.toml"
+hash = "6eb821078c04ab2840e5c7d436770f53e774e0c2d8c99c4e091659e4da8df5b2"
+
+[[files]]
+file = "config/enchantwithmob-client.toml"
+hash = "94877c897255ac4c4e49588e6d4ab38c8dcdce9f451e3a33d29f741d125dbbab"
+
+[[files]]
+file = "config/enchantwithmob-common.toml"
+hash = "ad2b5635529784cee9dadc3aedddb0fec1847c4b6206895e94a0a21829cf04a1"
+
+[[files]]
+file = "config/expanded_combat-client.toml"
+hash = "6f849c116d027cbef16b4ea2c73469f865099caa55e1d89be70e382ae9474115"
+
+[[files]]
+file = "config/extcaves_config.toml"
+hash = "179dee03e62a4471b8a073d1def3739d50118a8ece0bbb6b1a022d08fc16cecc"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "aba44e8db528160edac5925e92b8fed6148853cf60e98ce7c255b814e685e7d2"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
+
+[[files]]
+file = "config/grapplemod.toml"
+hash = "0390dfc8ee58e0c47bd52b9649fcbeffc2664f104a7a42b629269a22308a3dee"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "b4babda91c3d6c00fb78eadaec92fccf24bc576e13b4666519e7ebeb7cc18f34"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "5536f06295ac1b3ec315382883439f2b2608ec72c5de0647274973b94a5ca322"
+
+[[files]]
+file = "config/illagersweararmor-client.toml"
+hash = "c7286a0a43ed78023a0da25436b1542ab06ccefb10c7f11e70dbedab60463b28"
+
+[[files]]
+file = "config/illagersweararmor-common.toml"
+hash = "64839c2a6ead887f6012e3f6862c25e68b204cfa4ce0dfe21c2506a720163108"
+
+[[files]]
+file = "config/jei-client.toml"
+hash = "53607aed4059c2c5a08daf86d6d86a3483edbc5e282156f37100c29c63c289b5"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "265562b97c94c0ed51a5e21cdd440e861b7b6c03031f473d00cc386ce95e78c3"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "28cac9fda5b90d7b11452c3e1cdadf3351ef7f637f5ba0f9b5b0ce1b1216dab7"
+
+[[files]]
+file = "config/jrftl-common.toml"
+hash = "1f32ec74014d43fba944b3310393d824ec3a504f6cc3c4832cf3c06ffc13dacb"
+
+[[files]]
+file = "config/majruszs-difficulty-common.toml"
+hash = "70c508a13f1471758417554c8e26643bc3b73eccb75e3ee446739a98e3c0496e"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
+
+[[files]]
+file = "config/mostructures-forgeconfig-v1.toml"
+hash = "f888b5b44ae6f40b779630eef458b62549fea8cbac0953ec49ad66e20cca0cae"
+
+[[files]]
+file = "config/mowziesmobs-client.toml"
+hash = "a3801d9dd906096a89eed4da378718c2608b459f719ea14f90e0c3114fb33a6f"
+
+[[files]]
+file = "config/mowziesmobs-common.toml"
+hash = "ee0038ed35476ffd6a5417dbf935d85e7aaf53158506eeaf9016d5ecd624af16"
+
+[[files]]
+file = "config/outer_end-common.toml"
+hash = "5dcd35811f9ee827c0afa9471f247830ec7826664da97418ef2dcc49516697b7"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
+
+[[files]]
+file = "config/spiders-2.0.toml"
+hash = "621f506f43920b7b0c337e5de512f65040bc89a15f6682df8126c4f14e4a5ac4"
+
+[[files]]
+file = "config/structure_gel-client.toml"
+hash = "a858a0e49d9f5dab0a9cdb3de266f8e02f09ce0be4ba10909bcf575261b13a0b"
+
+[[files]]
+file = "config/structure_gel-common.toml"
+hash = "84152c3edd416800c30fcd61487474b11c05229d016ffaad957eedda97ad1f04"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "ad854761fcda73e385fdcbbf5c9019ed0ee8a1699e15bb5cdb9a5684f3204e58"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "61a16bfb2d7c3960c3b730b9125c19ef7155ed7f1c909de8c0ae53d859483a20"
+
+[[files]]
+file = "config/tinker_rapier-common.toml"
+hash = "26769e65872470e2243755865f0ec12b1b43f742c5d9848d2696320c1c4e3c7d"
+
+[[files]]
+file = "config/treeharvester-common.toml"
+hash = "57ff81bd7153f3c9e56200dcdda804615b417483cc09096a90b6107d74b591a6"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "e4aeed1bdc9787da59414c386f7ec2752257939ae49f8e48e3afa621bd29f4b3"
+
+[[files]]
+file = "config/tumbleweed-common.toml"
+hash = "f7503abea4dba5f72f0a0a72ee7decd65f6c18ff73a000044165ec02b6095801"
+
+[[files]]
+file = "config/twilightforest-client.toml"
+hash = "e9ed69d8b1266e269745c89fc9f85847d2728ab8b7374f3bb1e7af1d7011bdc3"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "12677765f9ce88f0682fe1f37d082a45d887f103e872315fcf2a94fea47c25f8"
+
+[[files]]
+file = "config/twoplayersonehorse-client.toml"
+hash = "3c11a8b8f08ce2249c0972750d57a4d9c36082c83223c6cf4c474830660772e7"
+
+[[files]]
+file = "config/usefulbackpacks-common.toml"
+hash = "2b2ae9ef23e279657da33283368559608479ee3a435aa525a9dc8b7e8fc6f74e"
+
+[[files]]
+file = "config/valhelsia_core-client.toml"
+hash = "bdc007a548ca2ac1806fea583b048aeb3d5eee1a82a363121cdb3dba8ddf5a5c"
+
+[[files]]
+file = "config/valhelsia_structures-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/valhelsia_structures-common.toml"
+hash = "24f2b1d561a0655141a82a0bfea8b5030c75b97c0997f0309c0aa7daca1a2d6d"
+
+[[files]]
+file = "config/waddles-common.toml"
+hash = "a84eddf80439018edd35f14bb20072f252e3d67bfcd98d6ddadb8bb1364c85e3"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "1261516974847aa016f3567c22eccace1cc4000b78b3dc3a781776a7e7989f93"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "18d7874555694f3b7fb8bbf72ea9d5e66ac72d39524d495e41d20efe9e37a278"
+
+[[files]]
+file = "config/wonderful-enchantments-client.toml"
+hash = "3d58785f40b45538d76fa7308b2ff2286870afcf1c68cc759eabef3b1d351293"
+
+[[files]]
+file = "config/wonderful-enchantments-common.toml"
+hash = "31aa07464928a321093c2f626bc0f525274be9fc5d76f552c868ba8841a22164"
+
+[[files]]
+file = "config/wstweaks-common.toml"
+hash = "fd8efdb4163acea948511493865ebcb2f870393111528b820dcc92453925adbb"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "465d707e2bc5e8903df5b82ee40e131d868e8e5bdc45c4996bdf62c7f6e595e2"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "ab37505d2cad01d2271b881754019d97d97f56d0eca328a48441ace964ceec29"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/yungsbridges-forge-1_16.toml"
+hash = "ea4d4067fcd22f1278c2e1628d7e974c79980cdd14012fe11ea9a0b6ca5d53f2"
+
+[[files]]
+file = "config/zombiehorsespawn-common.toml"
+hash = "7ca4adc5e489403e7c22df00df2afeab34326a12f22d1e9ea053d8985451195f"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "abf5378d55eb1775f678c911338ff07a8f189a1fbc95e311bec5ec0c9823029d"
+metafile = true
+
+[[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "deb7aecb89d093bf4c74decad4e0591a2a89170106f69086d34b61acdb9bb87f"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "f68d2412915aabda3d1e5dbbb5c6bea9d973e1416bde4e58e577af6f0cc2d8d8"
+metafile = true
+
+[[files]]
+file = "mods/battle-axe-pack.pw.toml"
+hash = "08b8fbe9a6f1aa2f358ff12ec43a95332b652d775b2e2f58e4d55ba2aa6cb1f8"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "aa2a915d17dd7d717cb4fbca51194dec8464e172011e39fd53b3d3b45a8279c0"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "5f0f44a271c994a591bc78db95aec291548a9198a51706dfa6fa22b1af3bea88"
+metafile = true
+
+[[files]]
+file = "mods/brassamberbattletowers.pw.toml"
+hash = "cab73c8246dec3175ec6868ef0c6f4c6d97b404e7eec5106f49ac05222291db1"
+metafile = true
+
+[[files]]
+file = "mods/castle-dungeons.pw.toml"
+hash = "15dc0b9f25ec744ff5209741afa05967b4563cf2a08c51c82d0a0e5ab613ca32"
+metafile = true
+
+[[files]]
+file = "mods/chococraft.pw.toml"
+hash = "54fab4cf87992f79f5393cfcceee4fc340981681a5709d52fe6b1c08e1f243fd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c836e40a2f41a20b43fb26007055aa6caae223026b6ac0ad43b0499de87a5e5c"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "1a01ec8a8ca02d7eb862ee1d31752f265b2dd22e03c1e17c9950f5c7cccdd90b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "06749a47981810a6b4df085c39e2d94ddd33f6f1e7e401ea38473ad53b0f747d"
+metafile = true
+
+[[files]]
+file = "mods/console-experience.pw.toml"
+hash = "bf8fcd4b87f2703f4f3369136e948f53a3c02dfad9bae96590f98af31d0be918"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "7b23d6d2daa8a6d7f2479af25088d8208a49efd4baa6a45c1ee8605167825b3e"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "f873f8571ff0849123972a2c391153e421b711465891294aa81894190bd86c11"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsenhanced.pw.toml"
+hash = "e3577801c8c499a0c7543dddc8437d8edc951c0a6bc4e6cbf9ea1cc878e9fb0b"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "a14b474196821d88116e9d94dd2d587ab19fbc3551eac53c269c42ff123699ef"
+metafile = true
+
+[[files]]
+file = "mods/enlightend.pw.toml"
+hash = "73ed68235db558c5e3ca7feb2b363bc492adac71e6064558d82e1c0254ee62bf"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "9f4777624aba606aa53a3ae5d78043e21a5833dc289635151f6a93f4c162bf9e"
+metafile = true
+
+[[files]]
+file = "mods/extended-caves.pw.toml"
+hash = "e7781134ddca2b0009ecc765bf9ad4877f75df447f96fc2f8f6380258fb47639"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "515342737e83f27e6849e544aed9a456051bc8d2e022f6d1383a7e117c36c3e3"
+metafile = true
+
+[[files]]
+file = "mods/giant-swords.pw.toml"
+hash = "21ffab1bb30e665e3d9104d9fefd3c359b9d886281beed3574fc4a20e024894c"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "b4466539ae85ddf37803b187d6914a46421bf37d5dc3464891426c0806c9087b"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "e263cab228097dab0b5bc49a1c733306ef7d6a00ecab68f24cd0910d3c2efd2e"
+metafile = true
+
+[[files]]
+file = "mods/hexxit-gear-r.pw.toml"
+hash = "227f76055d5e5be43fd207299d4e6d0de5f1454f7c1e59ef443b07a4aa793c1c"
+metafile = true
+
+[[files]]
+file = "mods/huntersreturn.pw.toml"
+hash = "9e374644d2303402096e41b50c8e7a5f5d27012da9463f8704aac48fbfeb50eb"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "3c346de90e701b45ead7c62d1eb830ef042d57ed85ffc9842d9e53e71ac727c6"
+metafile = true
+
+[[files]]
+file = "mods/illagers-wear-armor.pw.toml"
+hash = "4dc97246ed6417e34f0b9b180400420e31ae37d69a579e8ca3385465e7613f0e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
+metafile = true
+
+[[files]]
+file = "mods/just-another-rotten-flesh-to-leather-mod.pw.toml"
+hash = "a84ef28c95f3c84e652a73e99bdd8247a7c42e3ce6e64c0468fc159e4c9f1e58"
+metafile = true
+
+[[files]]
+file = "mods/just-sword-blocking.pw.toml"
+hash = "3ea6840913478b55fb93bf8c13e1205af2e1a450289c4b96fb6b25d2f610c115"
+metafile = true
+
+[[files]]
+file = "mods/magical-forest.pw.toml"
+hash = "ae13e015d2559a333f366af8fbebfe41d7325c23a6451ccc85c750ac50eb658f"
+metafile = true
+
+[[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "e919dc0504c96fe4d71a191fc78bfefcf4a7d71eb8725e0589b8e8ded57d30e2"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-progressive-difficulty.pw.toml"
+hash = "1c5a87c5a30487feb2875310534f509ed18e7eef6bad2b6ec8f6a14045281cef"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
+metafile = true
+
+[[files]]
+file = "mods/medieval-music.pw.toml"
+hash = "784de4b056e272441072ae7c914c6834c3edccebcf89394da4a2182b0aff91e0"
+metafile = true
+
+[[files]]
+file = "mods/mimic-mod.pw.toml"
+hash = "1c3d32a39ef6667c0f4a42eb1c08c4583cac1db3280d1491e1926e6b5cb99bad"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "5c3104aa14ce4122f0a33c5ee041884714cae5a7592e402237742090bc40e20b"
+metafile = true
+
+[[files]]
+file = "mods/netherite-horse-armor-mod.pw.toml"
+hash = "bf6166dd0050ce729a267cb3c8a67197338942412d4e74833ca4daba878c9c47"
+metafile = true
+
+[[files]]
+file = "mods/no-lakes-in-forge.pw.toml"
+hash = "253b02f12612cb14650d4a3123db76cf4fc25d175ac2b348f00663e15f8a075d"
+metafile = true
+
+[[files]]
+file = "mods/open-terrain-generator.pw.toml"
+hash = "5e9c3b25bddcc8528b4edddad5e14ce81c960cd25d223c2e86a423c82539a9a9"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
+metafile = true
+
+[[files]]
+file = "mods/project-391187.pw.toml"
+hash = "c715e0828900a4e0bd545913a3403566b00e66522d2a06e5fb12b64fd34bac10"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8ebda26e59482a38896abaaeadd473e4b5fdbf3627b64d46cc762c0cb590f498"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "ee589f5a00a5133cdea08e2681352caaf36afa72b8ef90099602221fbbafd88e"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "61eacd7bcf50975e264254b5e162473d78c972fbb8635ba18898a20e128e5c69"
+metafile = true
+
+[[files]]
+file = "mods/save-my-stronghold.pw.toml"
+hash = "d6ca633f615b20513201f9da9e24af1304db6f9571815ca43c770be528db2f7c"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "901f0b0321a689fca56181064b917a66fea77f9e85adbecf689b869d315fc598"
+metafile = true
+
+[[files]]
+file = "mods/spiders-2-0.pw.toml"
+hash = "d2afc92a81facdd972f234c44b99bade42b0c291840cb0d7f58f25d00fe2e4b8"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "af51ed68a5f8871654be446e20e878a6e4256c75d654712c077845b167bbf7e6"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "2aa5a41a9940e2374c10544238738e9643b48dbb81fdd45cdcc24262abd58a53"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9103343f6fb5d720f09ce45eee2ba77c892191b43082067da89be04d9fd25a60"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-rapier.pw.toml"
+hash = "0b3abfb9b52f7c183b3f1d890352e57df42bcb8cf6d6fb32e73d9be92ad36314"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "4c3da7357bd2ce9173f3d68a388a4d2fe97c2fc72c6cf40cd3186d5df781f640"
+metafile = true
+
+[[files]]
+file = "mods/tumbleweed.pw.toml"
+hash = "7a4bda371fc9e85c47aa41ec44c081e9a6b2d32c5c5b99dcaacc861989779942"
+metafile = true
+
+[[files]]
+file = "mods/two-players-one-horse.pw.toml"
+hash = "df3323f9d6d6be433aa90e4b1a483e0533d68dd4c56433d3993c394d081fac39"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "f809c6a60759df59b8cc283f7feabe19f3282ed2d902755c2b1316a96b2620aa"
+metafile = true
+
+[[files]]
+file = "mods/useful-backpacks.pw.toml"
+hash = "bb36cb2f050383da6024b97523ae2fd1ba0141e0a4fa0d3ad44373870df77199"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "1f75067df1765b14e351d52f9ca96c644626cdace06b3c8a130d4b995a150f7c"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "ec18e20353a80f61aceba466334b369774f00f7c6400aa200693262a61e83cec"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-vistas.pw.toml"
+hash = "7831a29aa7437f15313174cd9b017c0b0ffbf646bd821067c738a0fb009bbfd1"
+metafile = true
+
+[[files]]
+file = "mods/waddles.pw.toml"
+hash = "1ba651b228f69c50c1d29fb4dacaa17bb17b78de23608127eb84c546e43aea26"
+metafile = true
+
+[[files]]
+file = "mods/wandering-bags.pw.toml"
+hash = "1999e227daeba505fce9d6921565e05eb763110e4ce7394735022ca40d7740e2"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "4d746292ec59153b2518acf75ed736fe4a78227c3dcfb601eb6270cf1d73da2e"
+metafile = true
+
+[[files]]
+file = "mods/wonderful-enchantments.pw.toml"
+hash = "3ab0fe8974c5aacc8f9b44bdd036dad73faeb07af3d0b62622f0bf61a9722834"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "e8322be2ace190c0a1211c79770ce2ff8e6426d161ce597bedd16b7dd9158b72"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "079d56336fdf5fd836e31f067fe0cc1c38e8465274aea6e5ebed53397560513b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "ad6234ad0771472bd5bf582a5ddd737d9cb55fd6f364397eae3940b10574342d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "8202f215a2400426059f5f9f488ef8a842d01d39000580c51581eb240549e276"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "5b83ab5539365be913d72985d9318c4f4b3cb39f074b8faa5c2180658258b363"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "a71342e2c54d9ec3ff4634118ac7e978c65a8bfdcee93f51ddbc4f0a5780dd62"
+metafile = true
+
+[[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "b7aa8b1de7536958aecc99f3f8b6572cf955ede44109528bb6606ef895225234"
+metafile = true
+
+[[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "87e790f4da42011ce799d58055408d47c69fa3ada25ba80b69e7cb8ebca2952d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/classic-vanilla.pw.toml"
+hash = "a69954b33eaaca160822dd0baf55aabd16743a5eb04f22a638eefd9edf754cf9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "afd492657cd46e5bdb6e733126bf0eede6969600c04b658f81b03dfdb244613c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-gui-overhaul.pw.toml"
+hash = "c666cfd912f094c044c67a4d3ee3fdd1a1da6a0bd82d35bd4b62aca135cfb3e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
+hash = "5f59a064216fbe13d59d697f34b0312ff1f29237f830a206a6d4122f04197fb1"
+metafile = true

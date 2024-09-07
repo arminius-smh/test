@@ -1,0 +1,13 @@
+name = "Hunter'sReturn"
+filename = "HunterIllager-1.16.5-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f08deda6290e93f4053537fa85cff5247a7ef54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3389090
+project-id = 318857

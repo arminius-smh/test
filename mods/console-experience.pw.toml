@@ -1,0 +1,13 @@
+name = "Console Experience [Discontinued]"
+filename = "ConsoleExperience-v1.7.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "669ba50231a766b3ab9909041bde5eb981c133cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3248043
+project-id = 298319

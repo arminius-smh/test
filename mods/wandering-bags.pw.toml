@@ -1,0 +1,13 @@
+name = "Wandering Bags"
+filename = "wandering-bag-1.16.5-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc7801152c02647fa7c912412691016ea3f16b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3633210
+project-id = 500434

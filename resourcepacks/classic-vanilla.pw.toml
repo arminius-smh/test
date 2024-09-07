@@ -1,0 +1,13 @@
+name = "Classic Vanilla +"
+filename = "Classic Vanilla +.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9d8bac171485a4590fcbb7a82fe8630ff763a3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3544696
+project-id = 511408

@@ -1,0 +1,13 @@
+name = "Two Players One Horse"
+filename = "twoplayersonehorse-1.16.4-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0bdf717379730e731e5dada730b011b5c5275b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3250408
+project-id = 432444

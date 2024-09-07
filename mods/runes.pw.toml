@@ -1,0 +1,13 @@
+name = "Enchanting Runes"
+filename = "enchantingrunes-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd9e2f4fef84441c1a7463dd4657691e0fb271d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3430083
+project-id = 493759

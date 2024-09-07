@@ -1,0 +1,13 @@
+name = "Enlightend"
+filename = "NourishedEndV9-1.16.5Backport.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb74208985b47244fc895d22412cb702026f0aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3693390
+project-id = 502786

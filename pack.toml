@@ -1,0 +1,11 @@
+name = "Hexxit 1.16.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7ddd473108e4a0ca1e1645f2af7f93a8f053cd49796ce31c07e22aff27fe0e61"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"

@@ -1,0 +1,13 @@
+name = "Hexxit Gear R"
+filename = "hexxitgear2-1.16.5-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33d1100a63ad59ff08f01b00a80e0c32389f43ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3712827
+project-id = 376883

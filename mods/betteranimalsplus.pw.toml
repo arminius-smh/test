@@ -1,0 +1,13 @@
+name = "Better Animals Plus"
+filename = "betteranimalsplus-1.16.5-11.0.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57dd111ab1ac26bade4e07b569e266adb455bb68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3680856
+project-id = 303557

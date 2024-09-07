@@ -1,0 +1,13 @@
+name = "Expanded Combat"
+filename = "expanded_combat-2.3.0-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43a487f247d2b643d46959b015c9528bdb6f3eb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3409121
+project-id = 413079

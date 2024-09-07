@@ -1,0 +1,13 @@
+name = "Majrusz's Enchantments"
+filename = "wonderful-enchantments-1.16.4-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "049875fc329e4149c8ab1f5ad37ff9e1ac98c188"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3359621
+project-id = 417439
